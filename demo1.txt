@@ -1,1 +1,2 @@
 this is a different developer writing in a different file
+This is line 2
